@@ -9,7 +9,7 @@ I am a developer focused on building robust and scalable web applications. Curre
 - 🔭 **Current Focus:** Building RESTful APIs and Database Schemas.
 - 🌱 **Learning:** Advanced PostgreSQL optimization and System Design.
 - 💬 **Ask me about:** React components, Express middleware, and UI/UX.
-- 📫 **LinkedIn:** [Your LinkedIn Link Here]
+- 📫 **LinkedIn:** [[Your LinkedIn Link Here]](https://www.linkedin.com/in/shahid-ahamed-493489275?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
 ---
 
