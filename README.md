@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 I'm Shahid Ahamed
+**Full-Stack Developer | Specialized in Modern Web Architectures**
 
-<!--
-**Shahid-97-Ahamed/Shahid-97-Ahamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Professional Summary
+I am a developer focused on building robust and scalable web applications. Currently, I am bridging the gap between sleek front-end interfaces and powerful back-end systems using the **PERN Stack**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Current Focus:** Building RESTful APIs and Database Schemas.
+- 🌱 **Learning:** Advanced PostgreSQL optimization and System Design.
+- 💬 **Ask me about:** React components, Express middleware, and UI/UX.
+- 📫 **LinkedIn:** [Your LinkedIn Link Here]
+
+---
+
+### 🛠 Technical Toolbox
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | React.js, Next.js, HTML5, CSS3, Tailwind CSS |
+| **Backend** | Node.js, Express.js |
+| **Database** | PostgreSQL, MongoDB |
+| **Version Control**| Git, GitHub |
+
+---
+
+
+
+### ⚡ Recent Achievements
+- Successfully integrated **PostgreSQL** with Node.js for data-driven applications.
+- Built responsive UIs that prioritize user experience and accessibility.
+- [Add a 1-sentence highlight of your best project here]
