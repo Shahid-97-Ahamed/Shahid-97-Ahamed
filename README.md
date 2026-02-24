@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 Professional Summary
-I am a developer focused on building robust and scalable web applications. Currently, I am bridging the gap between sleek front-end interfaces and powerful back-end systems using the **PERN Stack**.
+I am a developer focused on building robust and scalable web applications. Currently, I am bridging the gap between sleek front-end interfaces and powerful back-end systems using the **MERN Stack**.
 
 - 🔭 **Current Focus:** Building RESTful APIs and Database Schemas.
 - 🌱 **Learning:** Advanced PostgreSQL optimization and System Design.
@@ -17,9 +17,9 @@ I am a developer focused on building robust and scalable web applications. Curre
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend** | React.js, Next.js, HTML5, CSS3, Tailwind CSS |
+| **Frontend** | React.js, HTML5, CSS3, Tailwind CSS,DaisyUi|
 | **Backend** | Node.js, Express.js |
-| **Database** | PostgreSQL, MongoDB |
+| **Database** | PostgreSQL, MongoDB,MySql |
 | **Version Control**| Git, GitHub |
 
 ---
@@ -29,4 +29,4 @@ I am a developer focused on building robust and scalable web applications. Curre
 ### ⚡ Recent Achievements
 - Successfully integrated **PostgreSQL** with Node.js for data-driven applications.
 - Built responsive UIs that prioritize user experience and accessibility.
-- [Add a 1-sentence highlight of your best project here]
+
