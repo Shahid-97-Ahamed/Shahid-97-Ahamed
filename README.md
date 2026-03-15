@@ -1,6 +1,6 @@
 ### Hi there 👋,  This is Shahid Ahamed
 #### Web Developer
-![Web Developer](https://media.licdn.com/dms/image/v2/D5635AQEdVCs2uVrK9w/profile-framedphoto-shrink_200_200/B56ZwZoOdsKYAY-/0/1769956501623?e=1772535600&v=beta&t=QqTDK1Q-acXC3OKmuVr4lV2TjyOSkIjNMW05xduqhSI)
+
 
 I am a developer focused on building robust and scalable web applications. Currently, I am bridging the gap between sleek front-end interfaces and powerful back-end systems using the **MERN Stack**.
 
