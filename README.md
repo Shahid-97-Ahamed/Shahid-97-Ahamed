@@ -1,6 +1,7 @@
 
 <p align="center"> <img src="github_banner.png" alt="Shahid Ahamed — Full Stack Engineer" width="100%" /> </p> <h1 align="center">Hi 👋, I'm Shahid Ahamed</h1> <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=560&lines=Full+Stack+Engineer;TypeScript+%7C+Next.js+%7C+Node.js+%7C+PostgreSQL;Building+scalable%2C+production-ready+web+apps;Exploring+AI+Engineering+%26+SaaS+%F0%9F%9A%80;Based+in+Japan+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" /> </a> </p> <p align="center"> <a href="https://www.linkedin.com/in/shahid-ahamed-493489275/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:shahid.07ahamed@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://shahid-97-ahamed.github.io/my_portfolio/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" /></a> </p>
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28">## **👨‍💻 ABOUT ME**
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"><h2 align="left"><b>👨‍💻 ABOUT ME</b></h2>
+
 
 - 💻 I'm a Full Stack Engineer passionate about building modern, scalable and type-safe web applications.
 
