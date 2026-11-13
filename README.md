@@ -1,18 +1,35 @@
 
 <p align="center"> <img src="github_banner.png" alt="Shahid Ahamed — Full Stack Engineer" width="100%" /> </p> <h1 align="center">Hi 👋, I'm Shahid Ahamed</h1> <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=560&lines=Full+Stack+Engineer;TypeScript+%7C+Next.js+%7C+Node.js+%7C+PostgreSQL;Building+scalable%2C+production-ready+web+apps;Exploring+AI+Engineering+%26+SaaS+%F0%9F%9A%80;Based+in+Japan+%F0%9F%87%AF%F0%9F%87%B5" alt="Typing SVG" /> </a> </p> <p align="center"> <a href="https://www.linkedin.com/in/shahid-ahamed-493489275/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:shahid.07ahamed@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://shahid-97-ahamed.github.io/my_portfolio/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" /></a> </p>
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"> 
-ABOUT ME
-💻 I'm a Full Stack Engineer who builds modern, scalable and type-safe web applications.
-⚛️ Frontend: React.js, Next.js, TypeScript, Tailwind CSS, DaisyUI
-🛠️ Backend: Node.js, Express.js, PostgreSQL, MySQL
-🐍 Also comfortable with Python
-🎓 Studied Web Engineering at Tokyo Multi AI College (2024 – 2026)
-🏅 Certified: Web Creator Exam – Expert (2025)
-📍 Based in Japan 🇯🇵
-🌱 Currently learning NestJS, Drizzle ORM, Redis, Docker, AWS, CI/CD and AI Engineering (LLM, RAG, LangChain)
-🏗️ Focused on System Design, Clean Code and Multi-Tenant SaaS architecture
-💬 Ask me about JavaScript, TypeScript, React, Next.js, Node.js and SQL databases
-📫 Reach me at shahid.07ahamed@gmail.com
+
+## 👨‍💻 ABOUT ME
+
+- 💻 I'm an Aspiring Full Stack Developer passionate about building modern, scalable and type-safe web applications.
+
+- ⚛️ **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS, DaisyUI
+
+- 🛠️ **Backend:** Node.js, Express.js, PostgreSQL, MySQL
+
+- 🐍 Also familiar with Python.
+
+- 📱 **Professional Experience:** Working as an R-Crew member at Rakuten Mobile, Japan.
+
+- 🤝 Experienced in customer consultation, SIM/eSIM activation, MNP procedures, mobile plans and campaign guidance.
+
+- 🎓 Studied Web Engineering at Tokyo Multi AI College (2024–2026).
+
+- 🏅 **Certified:** Web Creator Exam – Expert (2025).
+
+- 📍 Based in Japan 🇯🇵
+
+- 🌱 **Currently Learning:** NestJS, Drizzle ORM, Redis, Docker, AWS, CI/CD and AI Engineering (LLM, RAG, LangChain).
+
+- 🏗️ Interested in System Design, Clean Code and Multi-Tenant SaaS Architecture.
+
+- 💬 **Ask me about:** JavaScript, TypeScript, React, Next.js, Node.js and SQL databases.
+
+- 📫 **Reach me at:** shahid.07ahamed@gmail.com
+
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> TECHNOLOGY STACK
 💻 Languages
 
