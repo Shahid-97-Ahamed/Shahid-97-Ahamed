@@ -1,50 +1,112 @@
-# Hi 👋, I'm <YOUR NAME>  
-### 🔭 I build things with JavaScript, React, and Node.js
+<!-- ✏️ Replace YOUR-LINKEDIN, YOUR-EMAIL@gmail.com, YOUR-PORTFOLIO-LINK and YOUR-RESUME-LINK below with your own links -->
+
+<p align="center">
+  <img src="github_banner.png" alt="Shahid Ahamed — Full Stack Web Developer" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Shahid Ahamed</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=520&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Building+fast%2C+modern+web+apps;Open+to+new+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="YOUR-RESUME-LINK"><img src="https://img.shields.io/badge/Resume-38BDF8?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+</p>
 
 ---
 
-## 👨‍💻 About Me  
-I'm a passionate full-stack developer who enjoys building modern, high-performance web applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
-Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** while working on exciting real-world projects. Feel free to reach out if you want to talk about **web development**, open-source, or cool tech ideas!
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"> About Me
+
+- 💻 I'm a **Full Stack Web Developer** who builds modern, responsive and high‑performance web applications.
+- ⚛️ Frontend: **React.js**, **JavaScript (ES6+)**, **Tailwind CSS**
+- 🛠️ Backend: **Node.js**, **Express.js**, **MongoDB**
+- 🌱 Currently learning **GraphQL** and **Docker**
+- 🤝 Open to collaborating on **web development** and **open source** projects
+- 💬 Ask me about **JavaScript, React, Node.js and the MERN stack**
+- 📫 Reach me at **YOUR-EMAIL@gmail.com**
+- ⚡ Fun fact: I enjoy turning ideas into clean, working products
 
 ---
 
-## 🛠️ Tech Stack  
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Tech Stack
 
-### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
+**Languages**
 
-### **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
 
-### **Tools & Others**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+**Frameworks & Libraries**
 
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,nodejs,express" />
+</p>
 
-## 🌐 Connect With Me  
+**Database**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:email@example.com)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
 
----
+**Tools & Platforms**
 
-## 📊 GitHub Stats  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,firebase" />
+</p>
 
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
+**Currently Learning**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=graphql,docker" />
+</p>
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> GitHub Stats
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Shahid-97-Ahamed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahid-97-Ahamed&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shahid-97-Ahamed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shahid-97-Ahamed&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+</p>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shahid-97-Ahamed/Shahid-97-Ahamed/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+## 💡 Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shahid-97-Ahamed&style=flat-square&color=38BDF8" alt="Profile views" />
+</p>
+
+<p align="center"><i>⭐ Thanks for visiting! Feel free to check out my repositories.</i></p>
